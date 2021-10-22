@@ -1,1 +1,1 @@
- Official GitHub account of StakeIt.ONE http://stakeit.one - Harmony Validator
+ Private GitHub account of StakeIt.ONE http://stakeit.one - Harmony Validator
